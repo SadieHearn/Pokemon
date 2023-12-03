@@ -33,7 +33,7 @@ Files
 | File Name  | Description |
 | ------------- | ------------- |
 | PokemonProject.sql | SQL script which creates a table describing the Pokemon and queries the data to create a team according the client specifications. |
-| PokemonWebScraping.ipynb | Jupyter Notebook script use to scrape data from a Pokemon website and create a dataframe. |
+| PokemonWebScraping.ipynb | Python script used to scrape data from a Pokemon website and create a dataframe. |
 
 Software
 --
