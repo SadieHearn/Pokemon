@@ -26,7 +26,7 @@ Web Scraping with Python
 --
 Initially, Microsoft SQL Server was used to create a table of Pokemon from generations 1-3 and their stats to query the data within the table. That SQL script manually created a table and entered all of the data of Pokemon, however this is a tedious and time consuming method of collecting data, especially if new Pokemon need to be added periodically.
 
-Rather than using SQL to manually fill in data, a Python script will be used to scrape all of the necessary data from the Pokemon online database, insert it into a dataframe, then create a .csv file to be used in other software.
+Rather than using SQL to manually fill in data, a Python script was used to scrape all of the necessary data from the Pokemon online database, insert it into a dataframe, then create a .csv file to be used in other software.
 
 Files
 ---
