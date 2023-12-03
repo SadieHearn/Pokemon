@@ -28,6 +28,13 @@ Initially, Microsoft SQL Server was used to create a table of Pokemon from gener
 
 Rather than using SQL to manually fill in data, a Python script will be used to scrape all of the necessary data from the Pokemon online database, insert it into a dataframe, then create a .csv file to be used in other software.
 
+Files
+---
+| File Name  | Description |
+| ------------- | ------------- |
+| PokemonProject.sql | SQL script which creates a table describing the Pokemon and queries the data to create a team according the client specifications. |
+| PokemonWebScraping.ipynb | Jupyter Notebook script use to scrape data from a Pokemon website and create a dataframe. |
+
 Software
 --
 Miscrosft SQL Server: Table creation and data exploration
