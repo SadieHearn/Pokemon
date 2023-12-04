@@ -32,8 +32,8 @@ Files
 ---
 | File Name  | Description |
 | ------------- | ------------- |
-| PokemonProject.sql | SQL script which creates a table describing the Pokemon and queries the data to  asnwer client questions and create a team according the client specifications. |
-| PokemonWebScraping.ipynb | Python script used to scrape data from a Pokemon website and create a dataframe. |
+| pokemon_project.sql | SQL script which creates a table describing the Pokemon and queries the data to  asnwer client questions and create a team according the client specifications. |
+| pokemon_web_scraping.ipynb | Python script used to scrape data from a Pokemon website and create a dataframe. |
 
 Software
 --
